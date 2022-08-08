@@ -26,7 +26,7 @@
     ?>
     <button type="button" class="btn btn-dark">CLICK ME!</button>
 
-    <a href="www.google.com" target="_blank" class="btn btn-danger">Heroku.com</a>
+    <a href="https://cst323studentapp.herokuapp.com/" target="_blank" class="btn btn-danger">Heroku.com</a>
     <?php
         require 'includes/footer.php' 
     ?>
