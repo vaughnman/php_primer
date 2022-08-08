@@ -24,9 +24,9 @@
         // Echo using double quotes and interpolation
         echo "<h4>My Name is: $name </h4>";
     ?>
-    <button type="button" class="btn btn-dark">CLICK ME!</button>
+    <a href="https://cst323activity1.azurewebsites.net/index.php" target="_blank" class="btn btn-danger">AZURE</a>
 
-    <a href="https://cst323studentapp.herokuapp.com/" target="_blank" class="btn btn-danger">Heroku.com</a>
+    <a href="https://cst323studentapp.herokuapp.com/" target="_blank" class="btn btn-danger">Heroku</a>
     <?php
         require 'includes/footer.php' 
     ?>
