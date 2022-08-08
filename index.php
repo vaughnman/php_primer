@@ -27,6 +27,8 @@
     <a href="https://cst323activity1.azurewebsites.net/index.php" target="_blank" class="btn btn-danger">AZURE</a>
 
     <a href="https://cst323studentapp.herokuapp.com/" target="_blank" class="btn btn-danger">Heroku</a>
+
+    <a href="http://cst323activity-env.eba-ynk3p8a2.us-east-1.elasticbeanstalk.com/" target="_blank" class="btn btn-danger">AWS</a>
     <?php
         require 'includes/footer.php' 
     ?>
